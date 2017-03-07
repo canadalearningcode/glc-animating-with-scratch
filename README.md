@@ -1,5 +1,6 @@
-#NOT YET AVAILABLE TO CHAPTERS
-#Girls Learning Code: Animating with Scratch
+#National Girls Learning Code Day:
+
+#Girls Learning Code: Animating &amp; Storytelling with Scratch
 
 ##Quick Links
 
@@ -25,7 +26,7 @@ Youth Facilitator Handbook: <a href="http://bit.ly/youth-facilitator-handbook-do
 
 3 Days to Go
 
-* Select 1-2 activities from the Activity List (depending on age group)
+<!--* Select 1-2 activities from the Activity List (depending on age group)-->
 * Create a class in the Scratch Teacher account, and upload the starter project(s) - OR confirm that this has been done.
 * Create a bit.ly link to join the class - OR confirm that this has been done. (e.g. bit.ly/glcday-toronto)
 * Make a student account using the bit.ly link and practice going through the selected activities in Scratch. (DO NOT EDIT THE STARTER PROJECT FROM THE TEACHER ACCOUNT)
@@ -33,14 +34,14 @@ Youth Facilitator Handbook: <a href="http://bit.ly/youth-facilitator-handbook-do
 2 Days To Go
 
 * Update the slides (in a text editor, like <a href="https://atom.io/">atom.io</a>):
-    * Insert the network info and bit.ly link to the Scratch class (Slide 1 and 24)
-    * Edit the facilitator info with your photo and details (Slide 2 and 26)
-    * Edit the Agenda to adjust timing and/or activities, if applicable (Slide 5)
-    * Replace the Example Project URL, if applicable (Slide 10)
+    * Insert the network info and bit.ly link to the Scratch class *Specific to your chapter* (Slide 1 and 24)
+    <!--* Edit the facilitator info with your photo and details (Slide 2 and 26)-->
+    <!--* Edit the Agenda to adjust timing and/or activities, if applicable (Slide 5)-->
+    <!--* Replace the Example Project URL, if applicable (Slide 10)-->
 
 1 Day to Go
 
-* Print Facilitator Guide and Solution Sheets (found in Activity List) to bring to the workshop.
+* Print Facilitator Guide and Solution Sheet(s) (found in Activity List) to bring to the workshop.
 
 ## During the Workshsop
 * Have Facilitator Guide accessible throughout the workshop, follow along in the guide for support.
