@@ -10,6 +10,8 @@ Preview Slides: <a href="https://ladieslearningcode.github.io/glc-animating-with
 
 Activity List: <a href="http://bit.ly/scratch-activity-list">bit.ly/scratch-activity-list</a> (Animating tab)
 
+*GLC DAY Activity: <a href="https://docs.google.com/document/d/18VM8uFegQo3DclzEIcovh5TLJyZXViTRbrSrmJ-gD00/edit?usp=sharing">Finish the Story: The Girl Who Hated Books</a>*
+
 ##Additional Resources (Optional)
 
 Unplugged Activities: <a href="http://bit.ly/unplugged-activities-doc">bit.ly/unplugged-activities-doc</a>
