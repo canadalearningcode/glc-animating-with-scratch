@@ -1,8 +1,8 @@
-#National Girls Learning Code Day:
+# National Girls Learning Code Day:
 
-#Girls Learning Code: Animating &amp; Storytelling with Scratch
+# Girls Learning Code: Animating &amp; Storytelling with Scratch
 
-##Quick Links
+## Quick Links
 
 Preview Facilitator Guide: <a href="https://ladieslearningcode.github.io/glc-animating-with-scratch/facilitator-guide.html">ladieslearningcode.github.io/glc-animating-with-scratch/facilitator-guide.html</a>
 
@@ -12,14 +12,14 @@ Activity List: <a href="http://bit.ly/scratch-activity-list">bit.ly/scratch-acti
 
 *GLC DAY Activity: <a href="https://docs.google.com/document/d/18VM8uFegQo3DclzEIcovh5TLJyZXViTRbrSrmJ-gD00/edit?usp=sharing">Finish the Story: The Girl Who Hated Books</a> Solution Sheet*
 
-##Additional Resources (Optional)
+## Additional Resources (Optional)
 
 Unplugged Activities: <a href="http://bit.ly/unplugged-activities-doc">bit.ly/unplugged-activities-doc</a>
 
 Youth Facilitator Handbook: <a href="http://bit.ly/youth-facilitator-handbook-doc">bit.ly/youth-facilitator-handbook-doc</a>
 
 
-#HOW TO USE:
+# HOW TO USE:
 ## Before the Workshop
 1 Week to Go
 
@@ -44,7 +44,7 @@ Youth Facilitator Handbook: <a href="http://bit.ly/youth-facilitator-handbook-do
 
 * Print Facilitator Guide and Solution Sheet(s) (found in Activity List) to bring to the workshop.
 
-## During the Workshsop
+## During the Workshop
 * Have Facilitator Guide accessible throughout the workshop, follow along in the guide for support.
 * Use the slides to support the Kick-Off and Introduction.
 
