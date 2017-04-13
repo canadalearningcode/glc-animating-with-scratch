@@ -36,8 +36,8 @@ Youth Facilitator Handbook: <a href="http://bit.ly/youth-facilitator-handbook-do
 2 Days To Go
 
 * Update the slides (in a text editor, like <a href="https://atom.io/">atom.io</a>):
-    * Insert the network info and bit.ly link to the Scratch class 
-   *Specific to your chapter:* <strong>Listed in the #glcCodeDay 2017 Chapter Lead Guide </strong> (Slide 1 and 27)
+    * Insert the network info and bit.ly link to the Scratch class, 
+   *Specific to your chapter* (Slide 1 and 27) <strong>Listed in the #glcCodeDay 2017 Chapter Lead Guide </strong>
     <!--* Edit the Agenda to adjust timing and/or activities, if applicable (Slide 5)-->
     <!--* Replace the Example Project URL, if applicable (Slide 10)-->
 
