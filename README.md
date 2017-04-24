@@ -4,7 +4,7 @@
 
 ## Quick Links
 
-Preview Facilitator Guide: <a href="https://ladieslearningcode.github.io/glc-animating-with-scratch/facilitator-guide.html">ladieslearningcode.github.io/glc-animating-with-scratch/facilitator-guide.html</a>
+Preview Lead Instructor Guide: <a href="https://ladieslearningcode.github.io/glc-animating-with-scratch/guide.html">ladieslearningcode.github.io/glc-animating-with-scratch/guide.html</a>
 
 Preview Slides: <a href="https://ladieslearningcode.github.io/glc-animating-with-scratch/slides.html">ladieslearningcode.github.io/glc-animating-with-scratch/slides.html</a>
 
@@ -16,7 +16,7 @@ Activity List: <a href="http://bit.ly/scratch-activity-list">bit.ly/scratch-acti
 
 Unplugged Activities: <a href="http://bit.ly/unplugged-activities-doc">bit.ly/unplugged-activities-doc</a>
 
-Youth Facilitator Handbook: <a href="http://bit.ly/youth-facilitator-handbook-doc">bit.ly/youth-facilitator-handbook-doc</a>
+Youth Facilitator / Lead Instructor Handbook: <a href="http://bit.ly/youth-facilitator-handbook-doc">bit.ly/youth-facilitator-handbook-doc</a>
 
 
 # HOW TO USE:
@@ -24,7 +24,7 @@ Youth Facilitator Handbook: <a href="http://bit.ly/youth-facilitator-handbook-do
 1 Week to Go
 
 * Download this folder.
-* Read the Facilitator Guide for context (open in your browser).
+* Read the Guide for context (open in your browser).
 
 3 Days to Go
 
@@ -43,10 +43,10 @@ Youth Facilitator Handbook: <a href="http://bit.ly/youth-facilitator-handbook-do
 
 1 Day to Go
 
-* Print Facilitator Guide and Solution Sheet(s) (found in Activity List) to bring to the workshop.
+* Print the Guide and Solution Sheet(s) (found in Activity List) to bring to the workshop.
 
 ## During the Workshop
-* Have Facilitator Guide accessible throughout the workshop, follow along in the guide for support.
+* Have the Guide accessible throughout the workshop, follow along in the guide for support.
 * Use the slides to support the Kick-Off and Introduction.
 
 ## After the Workshop
