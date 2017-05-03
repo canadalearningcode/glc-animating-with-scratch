@@ -33,11 +33,13 @@ Youth Facilitator / Lead Instructor Handbook: <a href="http://bit.ly/youth-facil
 * Create a bit.ly link to join the class - OR confirm that this has been done. (e.g. bit.ly/glcday-toronto)
 * Make a student account using the bit.ly link and practice going through the selected activities in Scratch. (DO NOT EDIT THE STARTER PROJECT FROM THE TEACHER ACCOUNT)
 
+<strong>Here is the list of the <a href="https://docs.google.com/document/d/1eLUxo_fwtSpqbp5XuUpKyT_fDkXoHhWtVr02K-CTrwo/edit?usp=sharing">Scratch Teacher Account info</a> for each chapter </strong>
+
 2 Days To Go
 
 * Update the slides (in a text editor, like <a href="https://atom.io/">atom.io</a>):
-    * Insert the network info and bit.ly link to the Scratch class, 
-   *Specific to your chapter* (Slide 1 and 27) <strong>Listed in the #glcCodeDay 2017 Chapter Lead Guide </strong>
+    * Insert the network info and bit.ly link to the Scratch class,
+   *Specific to your chapter* (Slide 1 and 27) <strong>available <a href="https://docs.google.com/document/d/1eLUxo_fwtSpqbp5XuUpKyT_fDkXoHhWtVr02K-CTrwo/edit?usp=sharing">here</a> </strong>
     <!--* Edit the Agenda to adjust timing and/or activities, if applicable (Slide 5)-->
     <!--* Replace the Example Project URL, if applicable (Slide 10)-->
 
