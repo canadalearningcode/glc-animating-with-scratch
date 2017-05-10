@@ -39,7 +39,7 @@ Youth Facilitator / Lead Instructor Handbook: <a href="http://bit.ly/youth-facil
 
 * Update the slides (in a text editor, like <a href="https://atom.io/">atom.io</a>):
     * Insert the network info and bit.ly link to the Scratch class,
-   *Specific to your chapter* (Slide 1 and 27) <strong>available <a href="https://docs.google.com/document/d/1eLUxo_fwtSpqbp5XuUpKyT_fDkXoHhWtVr02K-CTrwo/edit?usp=sharing">here</a> </strong>
+   *Specific to your chapter* (Slide 1 and 25) <strong>available <a href="https://docs.google.com/document/d/1eLUxo_fwtSpqbp5XuUpKyT_fDkXoHhWtVr02K-CTrwo/edit?usp=sharing">here</a> </strong>
     <!--* Edit the Agenda to adjust timing and/or activities, if applicable (Slide 5)-->
     <!--* Replace the Example Project URL, if applicable (Slide 10)-->
 
