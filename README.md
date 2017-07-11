@@ -1,5 +1,3 @@
-# National Girls Learning Code Day:
-
 # Girls Learning Code: Animating &amp; Storytelling with Scratch
 
 ## Quick Links
@@ -9,8 +7,6 @@ Preview Lead Instructor Guide: <a href="https://ladieslearningcode.github.io/glc
 Preview Slides: <a href="https://ladieslearningcode.github.io/glc-animating-with-scratch/slides.html">ladieslearningcode.github.io/glc-animating-with-scratch/slides.html</a>
 
 Activity List: <a href="http://bit.ly/scratch-activity-list">bit.ly/scratch-activity-list</a> (Animating tab)
-
-*GLC DAY Activity: <a href="https://docs.google.com/document/d/18VM8uFegQo3DclzEIcovh5TLJyZXViTRbrSrmJ-gD00/edit?usp=sharing">Finish the Story: The Girl Who Hated Books</a> Solution Sheet*
 
 ## Additional Resources (Optional)
 
@@ -28,7 +24,7 @@ Youth Facilitator / Lead Instructor Handbook: <a href="http://bit.ly/youth-facil
 
 3 Days to Go
 
-<!--* Select 1-2 activities from the Activity List (depending on age group)-->
+* Select 1-2 activities from the Activity List (depending on age group)
 * Create a class in the Scratch Teacher account, and upload the starter project(s) - OR confirm that this has been done.
 * Create a bit.ly link to join the class - OR confirm that this has been done. (e.g. bit.ly/glcday-toronto)
 * Make a student account using the bit.ly link and practice going through the selected activities in Scratch. (DO NOT EDIT THE STARTER PROJECT FROM THE TEACHER ACCOUNT)
@@ -38,10 +34,10 @@ Youth Facilitator / Lead Instructor Handbook: <a href="http://bit.ly/youth-facil
 2 Days To Go
 
 * Update the slides (in a text editor, like <a href="https://atom.io/">atom.io</a>):
-    * Insert the network info and bit.ly link to the Scratch class,
-   *Specific to your chapter* (Slide 1 and 27) <strong>available <a href="https://docs.google.com/document/d/1eLUxo_fwtSpqbp5XuUpKyT_fDkXoHhWtVr02K-CTrwo/edit?usp=sharing">here</a> </strong>
-    <!--* Edit the Agenda to adjust timing and/or activities, if applicable (Slide 5)-->
-    <!--* Replace the Example Project URL, if applicable (Slide 10)-->
+  * Insert the network info and bit.ly link to the Scratch class (Slide 1 and 25)
+  * Edit the Agenda to adjust timing and/or activities, if applicable (Slide 5)
+  * Replace the Example Project URL, if applicable (Slide 10)
+  * If using a video clip for a "Finish the Story" activity, paste the iframe onto slide 26
 
 1 Day to Go
 
