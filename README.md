@@ -1,4 +1,4 @@
-# English:
+## English: (Scroll down for French)
 
 # Girls Learning Code: Animating &amp; Storytelling with Scratch
 
@@ -62,7 +62,7 @@ Content by Kassandra Lenters & Eden Beronio. Slides Created by [Christina Truong
 Email questions & comments to <content@ladieslearningcode.com>.
 
 
-# French:
+## French:
 
 # Girls Learning Code : Animation et narration avec Scratch
 
