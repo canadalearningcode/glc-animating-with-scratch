@@ -35,7 +35,7 @@ Youth Facilitator / Instructor Handbook: <a href="http://bit.ly/youth-facilitato
 
 3 Days to Go
 
-* Select 1-2 activities from the Activity List (depending on age group)
+<!--* Select 1-2 activities from the Activity List (depending on age group)-->
 * Create a class in the Scratch Teacher account, and upload the starter project(s) - OR confirm that this has been done.
 * Create a bit.ly link to join the class - OR confirm that this has been done. (e.g. bit.ly/glcday-toronto)
 * Make a student account using the bit.ly link and practice going through the selected activities in Scratch. (DO NOT EDIT THE STARTER PROJECT FROM THE TEACHER ACCOUNT)
@@ -120,7 +120,7 @@ Guide pour les enseignants (jeunesse) : <a href="http://bit.ly/guide-pour-les-en
 
 3 jours avant l'atelier
 
-* Sélectionnez 1 ou 2 activités de la liste d'activités (selon l'âge des apprenants)
+<!--* Sélectionnez 1 ou 2 activités de la liste d'activités (selon l'âge des apprenants)-->
 * Créez une classe dans votre compte d'enseignant sur Scratch et téléversez les projets initiaux ou vérifiez si cela a déjà été fait.
 * Créez un lien bit.ly pour rejoindre la classe ou vérifiez si cela a déjà été fait. (p. ex. : bit.ly/glcday-toronto)
 * Créez un compte pour élève à partir du lien bit.ly et exercez-vous en faisant les activités sélectionnées dans Scratch (NE MODIFIEZ PAS LE PROJET SCRATCH DU COMPTE POUR ENSEIGNANT)
