@@ -1,4 +1,11 @@
 ## English: (Scroll down for French)
+## This content is featured in a monthly theme!
+
+In 2019, we want to challenge Canadians to pause and think, learn about, share, and work towards solving issues that affect us all on a global scale – while leveraging the power of technology!  More information on monthly themes [here](https://www.canadalearningcode.ca/monthly-themes/)
+
+*August's theme is POPULATION.*
+
+See slide 7 for suggestions on how learners can incorporate this month’s theme into their projects.
 
 # Girls Learning Code: Animating with Scratch
 
@@ -8,7 +15,9 @@ Preview Instructor Notes: <a href="https://ladieslearningcode.github.io/glc-anim
 
 Preview Slides: <a href="https://ladieslearningcode.github.io/glc-animating-with-scratch/slides-en.html">ladieslearningcode.github.io/glc-animating-with-scratch/slides-en.html</a>
 
-Activity List: <a href="http://bit.ly/scratch-activity-list">bit.ly/scratch-activity-list</a> (Animating tab)
+Themed activity: [100-Year Nap solution sheet](https://docs.google.com/document/d/1JbS8T4XvW3-FRq7crgq96KN_IuFdxvTD-finOa8Owoo/edit?usp=sharing)
+
+<!--Activity List: <a href="http://bit.ly/scratch-activity-list">bit.ly/scratch-activity-list</a> (Animating tab)-->
 
 ## Additional Resources (Optional)
 
@@ -74,7 +83,14 @@ Here’s an easy way to attribute content back to us - please include it whereve
 Our general Rule of Thumb is that it's okay to add examples if you feel it could provide more context for your community. However, we ask that instructors do not remove anything, as the content is designed with intention, whether that be meeting specific learning objectives, or maintaining our organization’s culture through the design.  Any suggestions for revisions or updates can be submitted in Github via issues and pull requests. If submitting an issue, please include the slide number(s) in the title.
 
 
-## French:
+## Français
+# Ce contenu fait partie d'une thématique mensuelle!
+
+En 2019, nous encourageons la population du Canada à réfléchir, à apprendre, à partager et à collaborer pour résoudre des problèmes qui affectent toute la planète à l'aide de la technologie! Vous trouverez plus d'informations sur les thématiques mensuelles en consultant notre [site](https://www.canadalearningcode.ca/monthly-themes/).
+
+Le thème du mois d'août : la population.
+
+Consultez la diapositive n° 7 pour donner à votre groupe des idées pour intégrer le thème à leur projet. Les apprenantes ont le choix d'intégrer le thème à leur projet ou non.
 
 # Girls Learning Code : Animation avec Scratch
 
@@ -84,7 +100,9 @@ Aperçu du Notes pour les enseignants propre à l'atelier : <a href="https://lad
 
 Aperçu des diapositives: <a href="https://ladieslearningcode.github.io/glc-animating-with-scratch/slides-fr.html">ladieslearningcode.github.io/glc-animating-with-scratch/slides-fr.html</a>
 
-Liste d'activités Scratch : <a href="http://bit.ly/liste-d-activités-scratch">bit.ly/liste-d-activités-scratch</a> (onglet Animation)
+Activité : [Sieste de 100 ans (corrigé)](https://docs.google.com/document/d/1JbS8T4XvW3-FRq7crgq96KN_IuFdxvTD-finOa8Owoo/edit?usp=sharing) *In translation: Available Jun 7*
+
+<!--Liste d'activités Scratch : <a href="http://bit.ly/liste-d-activités-scratch">bit.ly/liste-d-activités-scratch</a> (onglet Animation)-->
 
 ## Ressources supplémentaires (facultatives)
 
